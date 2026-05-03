@@ -24,8 +24,6 @@ all: clean set-version build
 
 set-version:
 	scripts/set-version.sh
-commit:
-	scripts/git-commit-and-push.sh
 release:
 	scripts/create-release.sh
 # update CHANGELOG.md
