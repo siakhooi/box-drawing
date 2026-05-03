@@ -12,7 +12,6 @@ npm package to draw box using unicode characters
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/siakhooi/box-drawing?logo=github)
 ![GitHub top language](https://img.shields.io/github/languages/top/siakhooi/box-drawing?logo=github)
 ![GitHub language count](https://img.shields.io/github/languages/count/siakhooi/box-drawing?logo=github)
-![Lines of code](https://img.shields.io/tokei/lines/github/siakhooi/box-drawing?logo=github)
 ![GitHub repo size](https://img.shields.io/github/repo-size/siakhooi/box-drawing?logo=github)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/siakhooi/box-drawing?logo=github)
 ![Workflow](https://img.shields.io/badge/Workflow-github-purple)
@@ -57,8 +56,7 @@ npm package to draw box using unicode characters
 ![Sonar Violations (short format)](https://img.shields.io/sonar/info_violations/siakhooi_ts-box-drawing?server=https%3A%2F%2Fsonarcloud.io)
 ![Sonar Violations (long format)](https://img.shields.io/sonar/violations/siakhooi_ts-box-drawing?format=long&server=http%3A%2F%2Fsonarcloud.io)
 
-[![Generic badge](https://img.shields.io/badge/Funding-BuyMeACoffee-33cb56.svg)](https://www.buymeacoffee.com/siakhooi)
-[![Generic badge](https://img.shields.io/badge/Funding-Ko%20Fi-33cb56.svg)](https://ko-fi.com/siakhooi)
+[![Wise](https://img.shields.io/badge/Funding-Wise-33cb56.svg?logo=wise)](https://wise.com/pay/me/siakn3)
 ![visitors](https://hit-tztugwlsja-uc.a.run.app/?outputtype=badge&counter=ghmd-ts-box-drawing)
 
 ## Locations
